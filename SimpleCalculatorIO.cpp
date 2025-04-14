@@ -1,6 +1,6 @@
 // Name: Krupa Pothiwala
 // Email: kpothiwala2023@my.fit.edu
-//Purpose: Create an application, ìSimpleIOî that performs the following.  
+//Purpose: Create an application, ‚ÄúSimpleIO‚Äù that performs the following.  
 //         1.	Prompts the user for two integer values (i.e., number1 & number2)
 //         2.	Displays product of the two numbers as follows 
 //              Product of number 1 & number 2 is number1*number2 
