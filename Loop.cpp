@@ -1,10 +1,10 @@
 // Name: Krupa Pothiwala
 // Email: kpothiwala2023@my.fit.edu
-// Purpose: Create an application, “SimpleLoop” that displays a name 
+// Purpose: Create an application, â€œSimpleLoopâ€ that displays a name 
 //          multiple times, using '_' to substitute for space character
 // Algorithm:	
 //      Prompt the user for a name (i.e., format is LastName_FirstInitial, 
-// 	     e.g. “Bennett_J”)
+// 	     e.g. â€œBennett_Jâ€)
 //	Store value in myName (i.e., uses a string variable)
 //	Prompt user for number of iterations
 //	Store value in numIterations
